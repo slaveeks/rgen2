@@ -14,7 +14,7 @@ Run binary file with the following arguments
 ```
 Usage: ./rgen: <command> <arguments>
 Commands: id58, id58l, id58u, id92
-Arguments:
+Arguments:lkjjkkjll
   -n int
         how many symbols to generate (default 10)
 ```
